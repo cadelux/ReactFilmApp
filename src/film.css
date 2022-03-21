@@ -1,0 +1,23 @@
+.film{
+    border-radius: 10px;
+    text-align: center;
+    display: inline-block;
+    margin-left: -5px;
+    margin-right: -5px;
+    margin-bottom: 10px;
+    width: 250px  ;
+    background-color:#252727;
+    color:#ffff;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    
+}
+.col:hover{
+    background-color: #5f5a5a;
+   
+    
+}
+.filmname{
+    border: 1px solid;
+    
+}
+
